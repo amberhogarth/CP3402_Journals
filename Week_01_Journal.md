@@ -2,7 +2,7 @@
 
 ## Learning Activities & Resources
 This week I learned how to use GitHub pages:
-- https://www.youtube.com/watch?v=I-yT2Err6PE
+- https://www.youtube.com/watch?v=I-yT2Err6PE  
 I also brushed up on my html and CSS knowledge to be able to understand creating websites:
 - https://www.youtube.com/watch?v=qz0aGYrrlhU
 - https://blog.hubspot.com/website/css-tutorial
