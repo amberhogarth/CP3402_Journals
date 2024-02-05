@@ -1,9 +1,9 @@
 ## Week 1
 
 ## Learning Activities & Resources
-https://www.youtube.com/watch?v=I-yT2Err6PE
-https://www.youtube.com/watch?v=qz0aGYrrlhU
-https://blog.hubspot.com/website/css-tutorial
+- https://www.youtube.com/watch?v=I-yT2Err6PE
+- https://www.youtube.com/watch?v=qz0aGYrrlhU
+- https://blog.hubspot.com/website/css-tutorial
 
 ## Estimated Hours
 Around 4 hours
