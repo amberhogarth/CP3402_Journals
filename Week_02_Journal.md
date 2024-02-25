@@ -21,7 +21,7 @@ Around 3 hours
 - In the LinkedIn Learning video mentioned above, WordPress is described as "an interface between the content publisher, a database and a server where content is stored, and the visitor who accesses that content through the web browser."
 
 ## Career/Employability/Learning Insights
-After learning that WordPress was the most popular CMS, I was interested to know how popular Joomla is. 
-I found some statistics which reveal that Joomla is "used by 2.5% of all the websites whose content management system we know. This is 1.7% of all websites." (https://w3techs.com/technologies/details/cm-joomla)
-Comparatively, WordPress is "used by 62.8% of all the websites whose content management system we know. This is 43.2% of all websites." (https://w3techs.com/technologies/details/cm-wordpress)
-From this, it can be concluded that Joomla, when compared with WordPress, is not a sought-after skill for employers.
+- After learning that WordPress was the most popular CMS, I was interested to know how popular Joomla is. 
+- I found some statistics which reveal that Joomla is "used by 2.5% of all the websites whose content management system we know. This is 1.7% of all websites." (https://w3techs.com/technologies/details/cm-joomla)
+- Comparatively, WordPress is "used by 62.8% of all the websites whose content management system we know. This is 43.2% of all websites." (https://w3techs.com/technologies/details/cm-wordpress)
+- From this, it can be concluded that Joomla, when compared with WordPress, is not a sought-after skill for employers.
