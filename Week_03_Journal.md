@@ -7,10 +7,10 @@ I referred to the following tutorial to learn how to download the platform "Dock
 - https://wpengine.com/resources/containers-clusters-wordpress/
 
 I brushed up on some of the basics of WordPress that I visited last week in the following course:
-- https://www.linkedin.com/learning/wordpress-5-essential-training/wordpress-an-introduction?u=2223545
+- https://www.linkedin.com/learning/wordpress-5-essential-training/wordpress-an-introduction
 
 I studied workflows for WordPress projects in the recommended LinkedIn Learning course for this week:
-- https://www.linkedin.com/learning/wordpress-workflows-2015/welcome?u=2223545 
+- https://www.linkedin.com/learning/wordpress-workflows-2015
 
 ## Estimated Hours
 Around 2 hours
