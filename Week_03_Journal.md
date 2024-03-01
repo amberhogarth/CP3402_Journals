@@ -1,4 +1,4 @@
-# Week 2
+# Week 3
 
 ## Learning Activities & Resources
 This week I learned how to use WordPress to build a website.
