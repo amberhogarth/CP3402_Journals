@@ -3,8 +3,8 @@
 ## Learning Activities & Resources
 This week I learned how to create and implement child themes on WordPress.
 
-[This is a LinkedIn Learning course about building child themes.]https://www.linkedin.com/learning/wordpress-building-child-themes-3
-[This is a tutorial on how to set up a child theme using a plugin.]https://www.youtube.com/watch?v=Wpc6FAsi7xI
+[This is a LinkedIn Learning course about building child themes.](https://www.linkedin.com/learning/wordpress-building-child-themes-3)  
+[This is a tutorial on how to set up a child theme using a plugin.](https://www.youtube.com/watch?v=Wpc6FAsi7xI)
 
 ## Estimated Hours
 Around 2 hours
