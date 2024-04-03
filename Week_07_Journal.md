@@ -1,4 +1,4 @@
-# Week 6
+# Week 7
 
 ## Learning Activities & Resources
 This week I learned some basic PHP programming language. I also built an understanding about the Underscores starter theme for the assignment.
