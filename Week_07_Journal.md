@@ -18,7 +18,7 @@ Around 2 hours
 - The Underscores theme is a blank canvas for building custom WordPress themes. It includes the essential files and code necessary for a functioning theme, allowing for developers to add their own style, functionality and features.
 
 ## Career/Employability/Learning Insights
-I found out that being a WordPress Developer is a job, and decided to do research on it. [This page on indeed.com](https://www.indeed.com/career-advice/finding-a-job/wordpress-web-developer) describes being a WordPress Developer as a "front-end or back-end developer" who "[creates] websites using WordPress and rely on various digital tools to create functional and enticing websites that attract users." The page details the following requirements for the job:  
+I found out that being a WordPress Developer is a job, and decided to do research on it. [This page on indeed.com](https://www.indeed.com/career-advice/finding-a-job/wordpress-web-developer) describes being a WordPress Developer as a "front-end or back-end developer" who "[creates] websites using WordPress and [relies] on various digital tools to create functional and enticing websites that attract users." The page details the following requirements for the job:  
   
 - A bachelor's degree in computer science or a related field  
 - Working knowledge of code languages such as jQuery, JavaScript, CSS and HTML  
